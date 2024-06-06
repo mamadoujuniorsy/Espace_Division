@@ -1,0 +1,667 @@
+[
+  {
+    "id": 1,
+    "description": "IPHONE 14 pro max 128GB gold",
+    "prix": "CFA 950.000",
+    "image": "products/telephones/iphone-14-pro-max-128gb-gold.png",
+    "category": "telephones"
+  },
+  {
+    "id": 2,
+    "description": "iphone 14 pro max 256GB silver",
+    "prix": "CFA 1.036.000",
+    "image": "products/telephones/iphone-14-pro-max-265gb-silver.png",
+    "category": "telephones"
+  },
+  {
+    "id": 3,
+    "description": "Iphone 15 pro max 512GO blue titanium",
+    "prix": "CFA 1.107.260",
+    "image": "products/telephones/IPHONE-15-512-GB-blue-titanuim.png",
+    "category": "telephones"
+  },
+  {
+    "id": 4,
+    "description": "Iphone 15 pro max 512GB natural titanium",
+    "prix": "CFA 1.107.260",
+    "image": "products/telephones/IPHONE-15-512-GB-natual-titanuim.png",
+    "category": "telephones"
+  },
+  {
+    "id": 5,
+    "description": "Iphone 15 plus 256GO green",
+    "prix": "CFA 799.950",
+    "image": "products/telephones/IPHONE-15-PLUS-256GO-green.png",
+    "category": "telephones"
+  },
+  {
+    "id": 6,
+    "description": "Iphone 15 plus 256GO blue",
+    "prix": "CFA 799.950",
+    "image": "products/telephones/IPHONE-15-plus-blue.png",
+    "category": "telephones"
+  },
+  {
+    "id": 7,
+    "description": "Iphone 15 plus 256GO rose",
+    "prix": "CFA 799.950",
+    "image": "products/telephones/IPHONE-15-PLUS-rose.png",
+    "category": "telephones"
+  },
+  {
+    "id": 8,
+    "description": "Iphone 15 pro 256GB black titanium",
+    "prix": "CFA 865.634",
+    "image": "products/telephones/IPHONE-15-PRO-256GO-black-titanium.png",
+    "category": "telephones"
+  },
+  {
+    "id": 9,
+    "description": "iphone 13 pro max graphite 256GO",
+    "prix": "CFA 865.000",
+    "image": "products/telephones/IPHONE-13-PRO-MAX-GRAPHITE-256-GB.png",
+    "category": "telephones"
+  },
+  {
+    "id": 10,
+    "description": "Iphone 13 pro max sierra blue 256GB",
+    "prix": "CFA 870.000",
+    "image": "products/telephones/Iphone-13-pro-max-sierra-blue-256-gb.png",
+    "category": "telephones"
+  },
+  {
+    "id": 11,
+    "description": "iphone 13 pro max 256GB silver",
+    "prix": "CFA 865.000",
+    "image": "products/telephones/Iphone-13-Pro-max-silver-256-gb.png",
+    "category": "telephones"
+  },
+  {
+    "id": 12,
+    "description": "iphone 14 pro max 128GB black",
+    "prix": "CFA 852.000",
+    "image": "products/telephones/iphone-14-pro-max-128gb-black.png",
+    "category": "telephones"
+  },
+  {
+    "id": 13,
+    "description": "airpod 3ieme generation MME73ZM/A",
+    "prix": "CFA 120.000",
+    "image": "products/telephones/airpod.png",
+    "category": "telephones"
+  },
+  {
+    "id": 14,
+    "description": "Alcatel 1",
+    "prix": "CFA 30.000",
+    "image": "products/telephones/alcatel1.png",
+    "category": "telephones"
+  },
+  {
+    "id": 15,
+    "description": "Alcatel 3088X",
+    "prix": "CFA 19.000",
+    "image": "products/telephones/ALCATEL-3088X.png",
+    "category": "telephones"
+  },
+  {
+    "id": 16,
+    "description": "casque stéréo sans fil avec suppression active du bruit CHOETECH-BH-T04",
+    "prix": "CFA 13.000",
+    "image": "products/telephones/casque.png",
+    "category": "telephones"
+  },
+  {
+    "id": 17,
+    "description": "Chargeur choetech dual pd 20w pd6009 blanc",
+    "prix": "CFA 8.000",
+    "image": "products/telephones/CHARGEUR-choetech.png",
+    "category": "telephones"
+  },
+  {
+    "id": 18,
+    "description": "Power Bank 4200mahx711",
+    "prix": "CFA 12.000",
+    "image": "products/telephones/CHARGEUR-POWER-BANK.png",
+    "category": "telephones"
+  },
+  {
+    "id": 19,
+    "description": "Ipad pro 11 pouces 128GB",
+    "prix": "CFA 400.000",
+    "image": "products/telephones/Ipad-Pro-11-Pouces-128GB.png",
+    "category": "telephones"
+  },
+  {
+    "id": 20,
+    "description": "Samsung galaxy tab a 2019",
+    "prix": "CFA 152.000",
+    "image": "products/telephones/Samsung-galaxy-tab.png",
+    "category": "telephones"
+  },
+  {
+    "id": 21,
+    "description": "stylus pen HG08 blanc",
+    "prix": "CFA 18.000",
+    "image": "products/telephones/stylus-pen.png",
+    "category": "telephones"
+  },
+  {
+    "id": 22,
+    "description": "TCL tab 10s + clavier",
+    "prix": "CFA 140.000",
+    "image": "products/telephones/Tablette-TCL.png",
+    "category": "telephones"
+  },
+  {
+    "id": 23,
+    "description": "Tablette TCL tab max wifi 4go/64go + clavier et stylé",
+    "prix": "CFA 215.000",
+    "image": "products/telephones/Tablette-TCL-tab.png",
+    "category": "telephones"
+  },
+  {
+    "id": 24,
+    "description": "TCL 10 5G",
+    "prix": "CFA 160.000",
+    "image": "products/telephones/tcl-10.png",
+    "category": "telephones"
+  },
+  {
+    "id": 25,
+    "description": "TCL 20L+",
+    "prix": "CFA 156.000",
+    "image": "products/telephones/TCL-20.png",
+    "category": "telephones"
+  },
+  {
+    "id": 26,
+    "description": "Tcl move audio s600",
+    "prix": "CFA 30.000",
+    "image": "products/telephones/TCL-MOVE-AUDIO.png",
+    "category": "telephones"
+  },
+  {
+    "id": 27,
+    "description": "binatone machine à laver 7",
+    "prix": "CFA 132.000",
+    "image": "products/electromenagers/binatone.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 28,
+    "description": "binatone micro-onde 20l mwo",
+    "prix": "CFA 46.000",
+    "image": "products/electromenagers/binatone-microonde.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 29,
+    "description": "binatone ventilateur",
+    "prix": "CFA 30.000",
+    "image": "products/electromenagers/binatone-ventilateur.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 30,
+    "description": "CHAUFFE EAU HAIER 30",
+    "prix": "CFA 90000",
+    "image": "products/electromenagers/chauffe-eau-haier.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 31,
+    "description": "Cuisiniére Solar",
+    "prix": "CFA 129.950",
+    "image": "products/electromenagers/cuisiniere-solar.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 32,
+    "description": "Cuisiniere Technolux 9060 5",
+    "prix": "CFA 240.000",
+    "image": "products/electromenagers/cuisiniere-technolux.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 33,
+    "description": "fontaine geepas GWD 17016",
+    "prix": "CFA 65.000",
+    "image": "products/electromenagers/fontaine.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 34,
+    "description": "friteuse Hoffmans",
+    "prix": "CFA 65.500",
+    "image": "products/electromenagers/friteuse-hoffmans.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 35,
+    "description": "Machine à laver Vestel",
+    "prix": "CFA 165.000",
+    "image": "products/electromenagers/machine-a-laver-vestel.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 36,
+    "description": "Roch combine refrigerateur",
+    "prix": "CFA 170.000",
+    "image": "products/electromenagers/refrigerateur-roch-combine.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 37,
+    "description": "Roch congelateur",
+    "prix": "CFA 165.000",
+    "image": "products/electromenagers/roch-congelateur.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 38,
+    "description": "roch congelateur rfc",
+    "prix": "CFA 224.000",
+    "image": "products/electromenagers/roch-congelateur-rfc.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 39,
+    "description": "Roch cuisiniere 90x60 Full",
+    "prix": "CFA 250.000",
+    "image": "products/electromenagers/roch-cuisiniere.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 40,
+    "description": "roch frigo combine rfr",
+    "prix": "CFA 270.000",
+    "image": "products/electromenagers/roch-frigo.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 41,
+    "description": "Roch machine à laver RWM",
+    "prix": "CFA 205.000",
+    "image": "products/electromenagers/roch-machine-a-laver.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 42,
+    "description": "Roch microonde 20 ltr noir",
+    "prix": "CFA 46.000",
+    "image": "products/electromenagers/roch-microonde.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 43,
+    "description": "Machine à laver sharp",
+    "prix": "CFA 180.000",
+    "image": "products/electromenagers/sharp-machine-a-laver.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 44,
+    "description": "Refrigerateur roch",
+    "prix": "CFA 150.000",
+    "image": "products/electromenagers/roch-frigo.png",
+    "category": "electromenagers"
+  },
+  {
+    "id": 45,
+    "description": "Android Tv TCL 55 ",
+    "prix": "CFA 260.000",
+    "image": "products/tv/android-tv-tcl.png",
+    "category": "televisions"
+  },
+  {
+    "id": 46,
+    "description": "Smart Tv Skaggu by tcl 32",
+    "prix": "CFA 105.000",
+    "image": "products/tv/smart-tv-kaggu.png",
+    "category": "televisions"
+  },
+  {
+    "id": 47,
+    "description": "Smart TV TCL",
+    "prix": "CFA 160.000",
+    "image": "products/tv/smart-tv-tcl.png",
+    "category": "televisions"
+  },
+  {
+    "id": 48,
+    "description": "Support Tv 30 80 ck2407",
+    "prix": "CFA 150.000",
+    "image": "products/tv/support-tv.png",
+    "category": "televisions"
+  },
+  {
+    "id": 49,
+    "description": "Televiseurs TCL 32",
+    "prix": "CFA 134.000",
+    "image": "products/tv/TCL-32.png",
+    "category": "televisions"
+  },
+  {
+    "id": 50,
+    "description": "Televiseurs TCL 75",
+    "prix": "CFA 150.000",
+    "image": "products/tv/TELEVISEUR-TCL-75.png",
+    "category": "televisions"
+  },
+  {
+    "id": 51,
+    "description": "Bluetooth harman",
+    "prix": "CFA 90.000",
+    "image": "products/electronique/bluetooth-harman.png",
+    "category": "electroniques"
+  },
+  {
+    "id": 52,
+    "description": "Bluetooth Sony",
+    "prix": "CFA 50.000",
+    "image": "products/electronique/bluetooth-sony.png",
+    "category": "electroniques"
+  },
+  {
+    "id": 53,
+    "description": "Modem Huaweii ax3",
+    "prix": "CFA 30.000",
+    "image": "products/electronique/modem-ax3-huaweii.png",
+    "category": "electroniques"
+  },
+  {
+    "id": 54,
+    "description": "onduleur apc 650 va easy",
+    "prix": "CFA 39.000",
+    "image": "products/electronique/onduleur-apc.png",
+    "category": "electroniques"
+  },
+  {
+    "id": 55,
+    "description": "Onduleur emerson 600 va",
+    "prix": "CFA 37.000",
+    "image": "products/electronique/onduleur-emerson.png",
+    "category": "electroniques"
+  },
+  {
+    "id": 56,
+    "description": "onduleur s-kaggu 2000 va",
+    "prix": "CFA 250.000",
+    "image": "products/electronique/onduleur-kaggu.png",
+    "category": "electroniques"
+  },
+  {
+    "id": 57,
+    "description": "Radio muse",
+    "prix": "CFA 70.000",
+    "image": "products/electronique/radio-muse.png",
+    "category": "electroniques"
+  },
+  {
+    "id": 58,
+    "description": "Video projecteur Optoma",
+    "prix": "CFA 150.000",
+    "image": "products/electronique/VIDEO-PROJECTEUR-OPTOMA.png",
+    "category": "electroniques"
+  },
+  {
+    "id": 59,
+    "description": "Climatiseur Samsung",
+    "prix": "CFA 450.000",
+    "image": "products/climatisations/climatiseur-samsung.png",
+    "category": "climatiseurs"
+  },
+  {
+    "id": 60,
+    "description": "Climatiseur Skaggu 2.5 CV",
+    "prix": "CFA 235.000",
+    "image": "products/climatisations/CLIMATISEUR-SKAGGU.png",
+    "category": "climatiseurs"
+  },
+  {
+    "id": 61,
+    "description": "Geepas Portable ac 12000",
+    "prix": "CFA 220.000",
+    "image": "products/climatisations/geepas.png",
+    "category": "climatiseurs"
+  },
+  {
+    "id": 62,
+    "description": "SPLIT LAVA 12000 BTU 1,5 CV",
+    "prix": "CFA 169.000",
+    "image": "products/climatisations/Split-Lava.png",
+    "category": "climatiseurs"
+  },
+  {
+    "id": 63,
+    "description": "Split Samsung Armoire 5 cv",
+    "prix": "CFA 1.500.000",
+    "image": "products/climatisations/SPLIT-SAMSUNG-ARMOIRE-5.png",
+    "category": "climatiseurs"
+  },
+  {
+    "id": 64,
+    "description": "Split S-Kaggu 12000 BTU",
+    "prix": "CFA 169.000",
+    "image": "products/climatisations/Split-S-KAGGU.png",
+    "category": "climatiseurs"
+  },
+  {
+    "id": 65,
+    "description": "cartouche lexmark",
+    "prix": "CFA 25.000",
+    "image": "products/imprimantes/cartouche-lexmark.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 66,
+    "description": "chargeur de documents canon",
+    "prix": "CFA 19.000",
+    "image": "products/imprimantes/chargeur-de-documents-canon.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 67,
+    "description": "Duplicopieur",
+    "prix": "CFA 69.000",
+    "image": "products/imprimantes/duplicopieur.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 68,
+    "description": "imprimante a3",
+    "prix": "CFA 169.000",
+    "image": "products/imprimantes/imprimante-a3.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 69,
+    "description": "imprimante hp laser 107w",
+    "prix": "CFA 89.000",
+    "image": "products/imprimantes/imprimante-hp-laser.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 70,
+    "description": "imprimante hp multifonction",
+    "prix": "CFA 169.000",
+    "image": "products/imprimantes/imprimante-hp-multifonction.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 71,
+    "description": "imprimante lexmark",
+    "prix": "CFA 129.000",
+    "image": "products/imprimantes/imprimante-lexmark.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 72,
+    "description": "Photocopieur Canon",
+    "prix": "CFA 110.000",
+    "image": "products/imprimantes/PHOTOCOPIEUR-CANON.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 73,
+    "description": "Photocopieuse Sharp",
+    "prix": "CFA 129.000",
+    "image": "products/imprimantes/PHOTOCOPIEUSE-SHARP.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 74,
+    "description": "Scanner Fujitsu scansnap",
+    "prix": "CFA 549.000",
+    "image": "products/imprimantes/SCANNER-FUJITSU.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 75,
+    "description": "cartouche toner jaune lexmark",
+    "prix": "CFA 33.000",
+    "image": "products/imprimantes/toner-jaune-lexmark.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 76,
+    "description": "cartouche toner cyan lexmark",
+    "prix": "CFA 35.000",
+    "image": "products/imprimantes/toner-lexmark-cyan.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 77,
+    "description": "cartouche toner magenta lexmark",
+    "prix": "CFA 33.000",
+    "image": "products/imprimantes/toner-lexmark-magenta.png",
+    "category": "imprimantes"
+  },
+  {
+    "id": 78,
+    "description": "Play Station 4 slim",
+    "prix": "CFA 200.000",
+    "image": "products/consoles/ps4.png",
+    "category": "consoles"
+  },
+  {
+    "id": 79,
+    "description": "cartouche toner magenta lexmark",
+    "prix": "CFA 33.000",
+    "image": "products/consoles/nintendo_switch.png",
+    "category": "consoles"
+  },
+  {
+    "id": 80,
+    "description": "Clavier sans fil gt kb27gt",
+    "prix": "CFA 13.000",
+    "image": "products/ordinateurs/CLAVIER-SANS-FIL.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 81,
+    "description": "Clé Usb KIOXIA 32GB",
+    "prix": "CFA 6.000",
+    "image": "products/ordinateurs/CLE-USB-KIOXIA.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 82,
+    "description": "Dell latitude 5320 intel core",
+    "prix": "CFA 670.000",
+    "image": "products/ordinateurs/Dell-latitude-5320.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 83,
+    "description": "Dell latitude 5340 XCTO",
+    "prix": "CFA 980.000",
+    "image": "products/ordinateurs/dell-latitude-5340.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 84,
+    "description": "Dell Optiplex",
+    "prix": "CFA 330.000",
+    "image": "products/ordinateurs/dell-optiplex.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 85,
+    "description": "Disque dur externe Toshiba 100GB",
+    "prix": "CFA 65.000",
+    "image": "products/ordinateurs/DISQUE-DUR-EXTERNE-TOSHIBA.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 86,
+    "description": "Ecran lenovo",
+    "prix": "CFA 120.000",
+    "image": "products/ordinateurs/ecran-lenovo.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 87,
+    "description": "HP ELiteBook X360",
+    "prix": "CFA 560.000",
+    "image": "products/ordinateurs/HP-ELITEBOOK-X360.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 88,
+    "description": "HP ProBook",
+    "prix": "CFA 400.000",
+    "image": "products/ordinateurs/HP-ProBook.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 89,
+    "description": "Huawei MatBook B3-420",
+    "prix": "CFA 33.000",
+    "image": "products/ordinateurs/huaweii-matbook.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 90,
+    "description": "Lenovo ThinkBook 14 g2-intel",
+    "prix": "CFA 720.000",
+    "image": "products/ordinateurs/Lenovo-ThinkBook.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 91,
+    "description": "Lenovo Thinkbook intel core",
+    "prix": "CFA 620.000",
+    "image": "products/ordinateurs/lenovo-tinkbook.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 92,
+    "description": "Lenovo Thinkpad e15 Gen2",
+    "prix": "CFA 630.000",
+    "image": "products/ordinateurs/lenovo-Thinkpad-e15.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 93,
+    "description": "MacBook Pro M1 14",
+    "prix": "CFA 1.350.000",
+    "image": "products/ordinateurs/MACBOOK-PRO-M1.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 94,
+    "description": "Routeur Huaweii Wifi AX3",
+    "prix": "CFA 30.000",
+    "image": "products/ordinateurs/routeur-huaweii-wifi.png",
+    "category": "ordinateurs"
+  },
+  {
+    "id": 95,
+    "description": "Surface Pro X",
+    "prix": "CFA 866.000",
+    "image": "products/ordinateurs/Surface-Pro.png",
+    "category": "ordinateurs"
+  }
+]

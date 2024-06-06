@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "description": "Qualité, autononmie et confort",
+    "image": "hero/headphone.png"
+  },
+  {
+    "id": 2,
+    "description": "plongez dans le monde virtuel avec Apple Vision",
+    "": "CFA 330.000",
+    "image": "hero/vr.png"
+  },
+  {
+    "id": 3,
+    "description": "Le dernier modéle qui fait le buzz",
+    "image": "hero/watch.png"
+  }
+  
+]

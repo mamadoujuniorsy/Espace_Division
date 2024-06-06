@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "description": "IPHONE 15 PLUS 256GO green",
+    "prix": "CFA 799.950",
+    "image": "bestSells/iphone.png"
+  },
+  {
+    "id": 2,
+    "description": "Ordinateur portable HP 250 G8 NB PC/UMA i3-1005G1 250 G8",
+    "prix": "CFA 330.000",
+    "image": "bestSells/hp.png"
+  },
+  {
+    "id": 3,
+    "description": "Dr.Web Security Space 4 PC 1an",
+    "prix": "CFA 6.912",
+    "image": "bestSells/antivirus.png"
+  },
+  {
+    "id": 4,
+    "description": "Adaptateur de voyage Choetech PD5008 PD 30W charge rapide",
+    "prix": "CFA 12.000",
+    "image": "bestSells/adaptateur.png"
+  },
+  {
+    "id": 5,
+    "description": "Ondulateur S-Kaggu-3000-va",
+    "prix": "CFA 300.000",
+    "image": "bestSells/onduleur.png"
+  },
+  {
+    "id": 6,
+    "description": "Roch blender rbl 114ss c gris bocal en verre",
+    "prix": "CFA 17.250",
+    "image": "bestSells/mixeur.png"
+  },
+  {
+    "id": 7,
+    "description": "Friteuse hoffmans l df201b",
+    "prix": "CFA 30.000",
+    "image": "bestSells/friteur.png"
+  },
+  {
+    "id": 8,
+    "description": "Chargeur choetech dual pd 20w pd6009 blanc",
+    "prix": "CFA 8.000",
+    "image": "bestSells/chargeur.png"
+  }
+
+]
