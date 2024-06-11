@@ -66,10 +66,26 @@ const deleteProduct = async (req, res) => {
   }
 }
 
+const searchProducts = async (req, res) => {
+  try {
+    const { query } = req.query;
+    const products = await Product.find({
+      $or: [
+        { description: { $regex: query, $options: 'i' } },
+        { category: { $regex: query, $options: 'i' } }
+      ]
+    });
+    res.status(200).json(products);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+}
+
 module.exports = {
   getProducts,
   getProduct,
   createProduct,
   updateProduct,
-  deleteProduct
+  deleteProduct,
+  searchProducts
 }

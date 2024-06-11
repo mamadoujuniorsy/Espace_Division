@@ -21,6 +21,10 @@ const summaryAPI = {
     url:`${backendDomain}/api/products`,
     method: "get"
   },
+  search_products: {
+    url: `${backendDomain}/api/products/search`,
+    method: "get",
+  },
 }
 
 export default summaryAPI

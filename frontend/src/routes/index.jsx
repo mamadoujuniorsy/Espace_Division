@@ -15,6 +15,7 @@ import Ordinateur from '../pages/Ordinateur';
 import Login from '../pages/Login';
 import ForgotPassword from '../pages/ForgotPassword';
 import SignUp from '../pages/SignUp';
+import SearchResults from '../pages/SearchResults';
 import AdminPanel from '../pages/admin/AdminPanel';
 
 const router = createBrowserRouter([
@@ -78,7 +79,10 @@ const router = createBrowserRouter([
         path:"/admin/admin-panel",
         element: <AdminPanel/>
       },
-      
+      {
+        path:"/search-results",
+        element: <SearchResults/>
+      },
     ]
   }
 ]

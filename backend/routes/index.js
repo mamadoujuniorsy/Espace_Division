@@ -5,7 +5,7 @@ const userSignInController = require('../controllers/user/userSignin');
 const userDetailsController = require('../controllers/user/userDetails');
 const authToken = require('../middleware/authToken');
 const userLogout = require('../controllers/user/userLogout');
-const { getProducts, getProduct, createProduct, updateProduct, deleteProduct } = require('../controllers/product/productController');
+const { getProducts, getProduct, createProduct, updateProduct, deleteProduct,searchProducts } = require('../controllers/product/productController');
 
 // Routes Utilisateurs
 router.get("/user-details", authToken, userDetailsController);
@@ -15,6 +15,7 @@ router.get("/logout", userLogout);
 
 // Routes Produits
 router.get('/products', getProducts);
+router.get('/products/search', searchProducts)
 router.get('/products/:id', getProduct);
 router.post('/products', createProduct);
 router.put('/products/:id', updateProduct);
