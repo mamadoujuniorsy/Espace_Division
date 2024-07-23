@@ -7,6 +7,7 @@ import Button from '../components/Button';
 const SearchResults = () => {
   const [products, setProducts] = useState([]);
   const [error, setError] = useState(null);
+  const [hoveredIndex, setHoveredIndex] = useState(null);
   const location = useLocation();
 
   useEffect(() => {
@@ -40,18 +41,26 @@ const SearchResults = () => {
     <div>
       <h1>Résultats de recherche</h1>
       <div className='lg:grid lg:grid-cols-3 sm:flex sm:flex-col justify-center items-center gap-5 bg-gray-100 p-4 lg:p-0'>
-        {products.map(product => (
-          <div key={product.id} className="max-w-sm mx-auto">
+      {products.map(product => (
+          <div key={product.id} onMouseEnter={() => setHoveredIndex(product.id)} onMouseLeave={() => setHoveredIndex(null)} className="max-w-sm mx-auto">
             <div className="bg-white p-4 rounded-md shadow-md">
-              <img
-                src={getImageUrl(product.image)}
+              <img 
+                src={getImageUrl(product.image)} 
                 alt={product.description}
                 height={300}
-                width={300}
+                width={300} 
               />
-              <h2 className="text-center break-words">{product.description}</h2>
-              <h2 className="text-center break-words text-3xl font-bold">
-                {product.prix}
+              <h2 className={`${hoveredIndex !== product.id ? "text-center break-words" : "text-emerald-400 text-center"}`}>
+                {product.description}
+              </h2>
+              <h2 className={`${hoveredIndex !== product.id ? "text-center break-words text-3xl font-bold" : "text-center"}`}>
+                {hoveredIndex === product.id ? (
+                  <Button 
+                    text="Ajouter au panier"
+                  /> 
+                ) : (
+                  product.prix 
+                )}
               </h2>
             </div>
           </div>

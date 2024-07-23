@@ -1,0 +1,111 @@
+[
+  {
+    "label": "Jan",
+    "users": 0
+  },
+  {
+    "label": "Feb",
+    "users": 0
+  },
+  {
+    "label": "Mar",
+    "users": 0
+  },
+  {
+    "label": "Apr",
+    "users": 0
+  },
+  {
+    "label": "May",
+    "users": 0
+  },
+  {
+    "label": "Jun",
+    "users": 0
+  },
+  {
+    "label": "Jul",
+    "users": 8
+  },
+  {
+    "label": "Aug",
+    "users": 0
+  },
+  {
+    "label": "Sep",
+    "users": 0
+  },
+  {
+    "label": "Oct",
+    "users": 0
+  },
+  {
+    "label": "Nov",
+    "users": 0
+  },
+  {
+    "label": "Dec",
+    "users": 0
+  },
+
+  {
+    "label": "Jan",
+    "revenue": 64854,
+    "cost": 32652
+  },
+  {
+    "label": "Feb",
+    "revenue": 54628,
+    "cost": 42393
+  },
+  {
+    "label": "Mar",
+    "revenue": 117238,
+    "cost": 50262
+  },
+  {
+    "label": "Apr",
+    "revenue": 82830,
+    "cost": 64731
+  },
+  {
+    "label": "May",
+    "revenue": 0,
+    "cost": 0
+  },
+  {
+    "label": "Jun",
+    "revenue": 0,
+    "cost": 0
+  },
+  {
+    "label": "Jul",
+    "revenue": 569800,
+    "cost": 0
+  },
+  {
+    "label": "Aug",
+    "revenue": 0,
+    "cost": 0
+  },
+  {
+    "label": "Sep",
+    "revenue": 0,
+    "cost": 0
+  },
+  {
+    "label": "Oct",
+    "revenue": 0,
+    "cost": 0
+  },
+  {
+    "label": "Nov",
+    "revenue": 0,
+    "cost": 0
+  },
+  {
+    "label": "Dec",
+    "revenue": 0,
+    "cost": 0
+  }
+]

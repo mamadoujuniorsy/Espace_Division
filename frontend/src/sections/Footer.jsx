@@ -1,4 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
+import paymentBrandImg from '../assets/payment_brand.png'
 const Footer = () => {
   return (
     <div className="mt-12 grid lg:grid-cols-4 sm:grid-cols-1 text-center

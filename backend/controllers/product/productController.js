@@ -1,4 +1,41 @@
+const multer = require('multer');
+const path = require('path');
+const fs = require('fs');
 const Product = require('../../models/productModel.js');
+
+// Configuration de multer pour l'upload d'images
+const storage = multer.diskStorage({
+  destination: (req, file, cb) => {
+    cb(null, './uploads');  // Répertoire où les images seront stockées
+  },
+  filename: (req, file, cb) => {
+    cb(null, `${Date.now()}${path.extname(file.originalname)}`);
+  }
+});
+
+// Middleware multer pour l'upload d'une seule image
+const upload = multer({ storage })
+
+// Contrôleur pour créer un produit avec upload d'image
+const createProduct = async (req, res) => {
+  try {
+    const { id, description, prix, category, stock, note } = req.body;
+    const { path: imagePath } = req.file;  // Chemin de l'image uploadée
+    const product = new Product({
+      id,
+      description,
+      prix,
+      image: imagePath,  // Stocke le chemin de l'image
+      category,
+      stock,
+      note
+    });
+    await product.save();
+    res.status(201).json(product);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
 
 const getProducts = async (req, res) => {
   try {
@@ -22,23 +59,7 @@ const getProduct = async (req, res) => {
   }
 }
 
-const createProduct = async (req, res) => {
-  try {
-    const { id, name, description, prix, image, category } = req.body;
-    const product = new Product({
-      id,
-      name,
-      description,
-      prix,
-      image,
-      category
-    });
-    await product.save();
-    res.status(200).json(product);
-  } catch (error) {
-    res.status(500).json({ message: error.message });
-  }
-}
+
 
 const updateProduct = async (req, res) => {
   try {
@@ -81,11 +102,13 @@ const searchProducts = async (req, res) => {
   }
 }
 
+
 module.exports = {
   getProducts,
   getProduct,
   createProduct,
   updateProduct,
   deleteProduct,
-  searchProducts
-}
+  searchProducts,
+  upload ,
+};
